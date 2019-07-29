@@ -99,17 +99,17 @@ table {
   }
   /* noavigation mobile */
   /* dropdown navigation menu */
-  a {
+a {
     text-decoration: none;
     color: black;
     opacity:1;
     font-size: 1.5em;
     transition: 200ms;
   }
-  a:hover {
+ a:hover {
     color: #f8c667;
   }
-  ul {
+ul {
     padding: 0;
     list-style-type: none;
   }
